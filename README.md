@@ -1,26 +1,14 @@
-Fresh is a free blog template for Jekyll
-=============================
+# Creative Theme for Jekyll
 
-![](assets/img/fresh.jpg)
+A Jekyll implementation of the [Creative Theme](http://startbootstrap.com/template-overviews/creative/) template by [Start Bootstrap](http://startbootstrap.com).
 
-# Demo
+Creative is a one page Bootstrap theme for creatives, small businesses, and other multipurpose uses.
+The theme includes a number of rich features and plugins that you can use as a great boilerplate for your next Jekyll project! 
 
-![GIF](assets/img/fresh.gif)
+See it live in action at <https://volny.github.io/creative-theme-jekyll/>
 
-View this jekyll theme in action [here](http://artemsheludko.pw/fresh/)
+## To use the Creative Theme template in your project
 
-Integrations
-  - [Google Fonts](https://fonts.google.com/)
-  - [Disqus](https://disqus.com/)
-  - [Font Awesome](http://fontawesome.io/)
-  - Social media links
+- Start by adding your info in `_config.yml`
+- In `_layouts/front.html` reorder or remove section as you prefer.
 
-# How to Use
-
-  For those unfamiliar with how Jekyll works, check out [jekyllrb.com](https://jekyllrb.com/) for all the details,
-  or read up on just the basics of [front matter](https://jekyllrb.com/docs/frontmatter/), [writing posts](https://jekyllrb.com/docs/posts/),
-  and [creating pages](https://jekyllrb.com/docs/pages/).
-
-## License
-
-GNU General Public License v3.0
